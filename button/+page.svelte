@@ -7,8 +7,8 @@
 
 	<ul>
 		<li><Button>Hallo</Button></li>
-		<li class="$mt"><Button icon="fab fa-apple">Apple</Button></li>
-		<li class="$mt"><Button icon="fas fa-skating" class="$row-reverse">Schlittschuh</Button></li>
+		<li class="$mt"><Button icon="user">Apple</Button></li>
+		<li class="$mt"><Button icon="eye" class="$row-reverse">Schlittschuh</Button></li>
 	</ul>
 
 	<hr />
